@@ -10,6 +10,7 @@ import java.util.function.BinaryOperator;
  */
 public class BinaryOperatorExample {
   public static void main(String[] args) {
+    
     // Criar uma lista de números inteiros
     List<Integer> numeros = Arrays.asList(1, 2, 3, 4, 5);
 
